@@ -1,14 +1,14 @@
-<img src="https://komarev.com/ghpvc/?username=bhavyup&abbreviated=true&label=WATCHED&color=000000&style=for-the-badge" align="right">
+<img align="left" width="1000" alt="me" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)
+<img align="right" width="200" alt="me" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)-->
 
-
-<img align="right" alt="me" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
+<br>
 💻 Full-Stack Developer | Java Enthusiast | Final Year CSE Student <br>
 ⚙️ Exploring backend systems, cloud infra, and scalable architectures <br>
 🚀 Open to SDE roles, internships & cool collaborations!
 <br><br>
+
 ## 🤝 Wanna work together ?  
 Got an idea, project, or just want to connect? <br>
 I'm always open to collaboration, learning, and building cool stuff together.
@@ -53,12 +53,10 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ### ☁️ Hosting & Deployment
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 <br><br>
 ## 🧠 Currently Learning
 
@@ -70,8 +68,31 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ## 💡 Dev Jokes
 
 ![Dev Tip](https://readme-jokes.vercel.app/api?bgColor=black&textColor=white&theme=graySky)
-<br><br>
+<br>
 ## 🌥 Date and Quote 
 <!--START_SECTION:quote-->
 📅 **Date :** Sunday 6 July, 2025<!--END_SECTION:quote--><br>
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red)
+<br>
+## 🙏 Thank You for Visiting!
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNpZDZrMjhvOGhjN2xnbzg4Y2pldDhoYTd3Z3ZjNGc3cnA5bzlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b0DUkn7aEOYHVF3E1O/giphy.gif" width="150" height="150" alt="Thank You GIF" />
+I appreciate you stopping by my GitHub profile.  
+Feel free to explore my repositories, check out my projects, or connect with me!
+
+
+📬 **Let’s Connect**: If you liked something or want to collaborate, just reach out!
+
+> **"Code. Learn. Share. Repeat."**
+<img src="https://komarev.com/ghpvc/?username=bhavyup&abbreviated=true&label=WATCHED&color=000000&style=for-the-badge">
+
+---
+
+<p align="center">
+  <sub>
+  © 2025 <strong>Bhavy Upreti ·</strong> Made with ❤️ using  
+  <img src="https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white&logoSize=small"/>
+  </sub>
+</p>
+
