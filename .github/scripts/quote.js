@@ -22,7 +22,7 @@ const fetch = require("node-fetch");
 📅 Date: ${dateStr}  
 🕒 Time: ${timeStr} IST  
 💬 "${quote}"  
-      — ${author}
+      \t — ${author}
 `;
 
   const readme = fs.readFileSync("README.md", "utf-8");
