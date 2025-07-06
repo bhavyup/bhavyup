@@ -14,18 +14,8 @@ const fetch = require("node-fetch")
     day: "numeric",
   })
 
-  // Get current IST time and format it
-  const now = new Date()
-  const istTime = now.toLocaleString("en-IN", {
-    timeZone: "Asia/Kolkata",
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: true,
-  })
-
   const newContent = `
-📅 **Date :** ${dateStr}  
-💬 "${quote}"  — ${author}`
+📅 **Date :** ${dateStr}`
 
   const readme = fs.readFileSync("README.md", "utf-8")
   const updated = readme.replace(
