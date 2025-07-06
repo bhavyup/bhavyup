@@ -72,12 +72,17 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ![Dev Tip](https://readme-jokes.vercel.app/api?bgColor=black&textColor=white&theme=graySky)
 <br><br>
 
-<!--START_SECTION:quote-->
-## 🌟 Quote of the Day
+<!--START_SECTION:quote-->## 🌟 Quote of the Day
 
-💬 "When we allow negative messages to fester in our head, they take on a life of their own."  
-— Lolly Daskal
+💬 "No problem can be solved from the same level of consciousness that created it."  — Albert Einstein
 
 📅 **Date :** Sunday 6 July, 2025  
-🕒 **Time :** ![Current Time](https://img.shields.io/badge/dynamic/json?label=Time&color=brightgreen&query=$.time&url=https://YOUR_DOMAIN/current-time.json)
-<!--END_SECTION:quote-->
+
+🕒 **Current Time :** ![Current Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=UTC%20Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FUTC&suffix=%20UTC)
+
+⏰ **Your Local Time :** 
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Local%20Time&query=$.datetime&url=https://worldtimeapi.org/api/timezone/Etc/UTC" id="local-time-badge">
+
+<script>
+document.getElementById('local-time-badge').src = 'https://img.shields.io/badge/Local%20Time-' + new Date().toLocaleString() + '-blue';
+</script><!--END_SECTION:quote-->
