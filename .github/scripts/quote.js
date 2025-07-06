@@ -14,13 +14,14 @@ const fetch = require("node-fetch")
     day: "numeric",
   })
 
+  // Using a different approach to get just the time
   const newContent = `## 🌟 Quote of the Day
 
 💬 "${quote}"  — ${author}
 
 📅 **Date :** ${dateStr}  
 
-🕒 **Current Time :** ![Live Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Live%20Time%20(IST)&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&cacheSeconds=1&style=for-the-badge)`
+🕒 **Current Time :** ![Time](https://img.shields.io/endpoint?url=https://worldtimeapi.org/api/timezone/Asia/Kolkata&query=$.datetime&label=IST&color=brightgreen&style=for-the-badge&cacheSeconds=1)`
 
   const readme = fs.readFileSync("README.md", "utf-8")
   const updated = readme.replace(
