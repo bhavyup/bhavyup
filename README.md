@@ -75,8 +75,9 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <!--START_SECTION:quote-->
 ## 🌟 Quote of the Day
 
-📅 Date: Sunday 6 July, 2025  
-🕒 Time: 08:28 am IST  
-💬 "Never do things others can do and will do if there are things others cannot do or will not do."  
-— Amelia Earhart
+💬 "Quiet people have the loudest minds."  
+— Stephen Hawking
+
+📅 **Date (Last Updated):** Sunday 6 July, 2025  
+🕒 **Current Time:** ![Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata)
 <!--END_SECTION:quote-->
