@@ -23,15 +23,9 @@ const fetch = require("node-fetch")
     hour12: true,
   })
 
-  const newContent = `## 🌟 Quote of the Day
-
-💬 "${quote}"  — ${author}
-
+  const newContent = `
 📅 **Date :** ${dateStr}  
-
-🕒 **Current Time :** ![Time](https://img.shields.io/badge/IST-${encodeURIComponent(istTime)}-brightgreen?style=for-the-badge&logo=clock)
-
-⏰ **Live Clock :** <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Live%20UTC&query=%24.utc_datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FUTC&style=flat-square&cacheSeconds=1&t=${Date.now()}" />`
+💬 "${quote}"  — ${author}`
 
   const readme = fs.readFileSync("README.md", "utf-8")
   const updated = readme.replace(
