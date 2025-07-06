@@ -74,15 +74,8 @@ Let’s create something impactful — reach out and let’s talk!<br>
 
 <!--START_SECTION:quote-->## 🌟 Quote of the Day
 
-💬 "No problem can be solved from the same level of consciousness that created it."  — Albert Einstein
+💬 "Sometimes a change of perspective is all it takes to see the light."  — Dan Brown
 
 📅 **Date :** Sunday 6 July, 2025  
 
-🕒 **Current Time :** ![Current Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=UTC%20Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FUTC&suffix=%20UTC)
-
-⏰ **Your Local Time :** 
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Local%20Time&query=$.datetime&url=https://worldtimeapi.org/api/timezone/Etc/UTC" id="local-time-badge">
-
-<script>
-document.getElementById('local-time-badge').src = 'https://img.shields.io/badge/Local%20Time-' + new Date().toLocaleString() + '-blue';
-</script><!--END_SECTION:quote-->
+🕒 **Current Time :** ![Live Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Live%20Time%20(IST)&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&cacheSeconds=1&style=for-the-badge)<!--END_SECTION:quote-->
