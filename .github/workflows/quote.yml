@@ -1,0 +1,32 @@
+name: ✨ Daily Quote of the Day
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Runs daily at 8:30 AM IST
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Fetch and update daily quote
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run script
+        run: |
+          npm install node-fetch@2
+          node .github/scripts/quote.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "🔁 update: daily quote"
+          git push
