@@ -72,12 +72,6 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ![Dev Tip](https://readme-jokes.vercel.app/api?bgColor=black&textColor=white&theme=graySky)
 <br><br>
 
-<!--START_SECTION:quote-->## 🌟 Quote of the Day
-
-💬 "I can think of nothing less pleasurable than a life devoted to pleasure."  — John D. Rockefeller
-
+<!--START_SECTION:quote-->
 📅 **Date :** Sunday 6 July, 2025  
-
-🕒 **Current Time :** ![Time](https://img.shields.io/badge/IST-03%3A27%20pm-brightgreen?style=for-the-badge&logo=clock)
-
-⏰ **Live Clock :** <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Live%20UTC&query=%24.utc_datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FUTC&style=flat-square&cacheSeconds=1&t=1751795877107" /><!--END_SECTION:quote-->
+💬 "Each of us is a unique strand in the intricate web of life and here to make a contribution."  — Deepak Chopra<!--END_SECTION:quote-->
