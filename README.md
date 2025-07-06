@@ -75,3 +75,4 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <!--START_SECTION:quote-->
 📅 **Date :** Sunday 6 July, 2025  
 💬 "Optimism, when applied to your life, develops strength and peace within you."  — Norman Vincent Peale<!--END_SECTION:quote-->
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red)
