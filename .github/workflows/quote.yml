@@ -1,8 +1,11 @@
 name: ✨ Daily Quote of the Day
 
+permissions:
+  contents: write   # <-- give write access to README.md
+
 on:
   schedule:
-    - cron: "0 3 * * *"  # Runs daily at 8:30 AM IST
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
