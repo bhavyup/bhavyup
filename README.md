@@ -75,9 +75,13 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <!--START_SECTION:quote-->
 ## 🌟 Quote of the Day
 
-💬 "Quiet people have the loudest minds."  
-— Stephen Hawking
+💬 "Always seek out the seed of triumph in every adversity."  
+— Og Mandino
 
 📅 **Date (Last Updated):** Sunday 6 July, 2025  
-🕒 **Current Time:** ![Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata)
+🕒 **Current Time:**  
+
+<p align="center">
+  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Current Time">
+</p>
 <!--END_SECTION:quote-->
