@@ -22,15 +22,9 @@ const fetch = require("node-fetch");
 💬 "${quote}"  
 — ${author}
 
-📅 **Date (Last Updated):** ${dateStr}  
-🕒  
-<p align="center">
-  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Current Time">
-</p>
+📅 **Date :** ${dateStr}  
+🕒 **Time :** ![Current Time](https://img.shields.io/badge/dynamic/json?label=Time&color=brightgreen&query=$.time&url=https://YOUR_DOMAIN/current-time.json)
 `;
-
-
-
 
   const readme = fs.readFileSync("README.md", "utf-8");
   const updated = readme.replace(
