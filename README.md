@@ -75,12 +75,9 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <!--START_SECTION:quote-->
 ## 🌟 Quote of the Day
 
-💬 "The four P's to success are pressure, persistence, perseverance, and prayer."  
-— Steve Harvey
+💬 "When we allow negative messages to fester in our head, they take on a life of their own."  
+— Lolly Daskal
 
-📅 **Date (Last Updated):** Sunday 6 July, 2025  
-🕒  
-<p align="center">
-  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Current Time">
-</p>
+📅 **Date :** Sunday 6 July, 2025  
+🕒 **Time :** ![Current Time](https://img.shields.io/badge/dynamic/json?label=Time&color=brightgreen&query=$.time&url=https://YOUR_DOMAIN/current-time.json)
 <!--END_SECTION:quote-->
