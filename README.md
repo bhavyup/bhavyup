@@ -74,10 +74,8 @@ Let’s create something impactful — reach out and let’s talk!<br>
 
 <!--START_SECTION:quote-->## 🌟 Quote of the Day
 
-💬 "Remember, today is the tomorrow you worried about yesterday."  — Dale Carnegie
+💬 "Get mad, then get over it."  — Colin Powell
 
 📅 **Date :** Sunday 6 July, 2025  
 
-🕒 **Live Time :** <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=IST&query=%24.formatted&url=http%3A//worldtimeapi.org/api/timezone/Asia/Kolkata&style=for-the-badge&cacheSeconds=1&t=1751795417098" />
-
-*⚡ Refreshes automatically when you view this page*<!--END_SECTION:quote-->
+🕒 **Current Time :** ![Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=IST&query=%24.time&url=http%3A%2F%2Fworldclockapi.com%2Fapi%2Fjson%2Fasia%2Fkolkata&style=for-the-badge&cacheSeconds=1)<!--END_SECTION:quote-->
