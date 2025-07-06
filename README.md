@@ -74,4 +74,4 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ## 🌥 Date and Quote 
 <!--START_SECTION:quote-->
 📅 **Date :** Sunday 6 July, 2025  
-💬 "Each of us is a unique strand in the intricate web of life and here to make a contribution."  — Deepak Chopra<!--END_SECTION:quote-->
+💬 "We must embrace pain and burn it as fuel for our journey."  — Kenji Miyazawa<!--END_SECTION:quote-->
