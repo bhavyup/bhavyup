@@ -75,12 +75,11 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <!--START_SECTION:quote-->
 ## 🌟 Quote of the Day
 
-💬 "Always seek out the seed of triumph in every adversity."  
-— Og Mandino
+💬 "The four P's to success are pressure, persistence, perseverance, and prayer."  
+— Steve Harvey
 
 📅 **Date (Last Updated):** Sunday 6 July, 2025  
-🕒 **Current Time:**  
-
+🕒  
 <p align="center">
   <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Current Time">
 </p>
