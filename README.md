@@ -74,8 +74,10 @@ Let’s create something impactful — reach out and let’s talk!<br>
 
 <!--START_SECTION:quote-->## 🌟 Quote of the Day
 
-💬 "Get mad, then get over it."  — Colin Powell
+💬 "I can think of nothing less pleasurable than a life devoted to pleasure."  — John D. Rockefeller
 
 📅 **Date :** Sunday 6 July, 2025  
 
-🕒 **Current Time :** ![Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=IST&query=%24.time&url=http%3A%2F%2Fworldclockapi.com%2Fapi%2Fjson%2Fasia%2Fkolkata&style=for-the-badge&cacheSeconds=1)<!--END_SECTION:quote-->
+🕒 **Current Time :** ![Time](https://img.shields.io/badge/IST-03%3A27%20pm-brightgreen?style=for-the-badge&logo=clock)
+
+⏰ **Live Clock :** <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Live%20UTC&query=%24.utc_datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FUTC&style=flat-square&cacheSeconds=1&t=1751795877107" /><!--END_SECTION:quote-->
