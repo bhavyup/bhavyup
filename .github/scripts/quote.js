@@ -14,16 +14,13 @@ const fetch = require("node-fetch")
     day: "numeric",
   })
 
-  // Using timestamp approach for truly live time
   const newContent = `## 🌟 Quote of the Day
 
 💬 "${quote}"  — ${author}
 
 📅 **Date :** ${dateStr}  
 
-🕒 **Live Time :** <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=IST&query=%24.formatted&url=http%3A//worldtimeapi.org/api/timezone/Asia/Kolkata&style=for-the-badge&cacheSeconds=1&t=${Date.now()}" />
-
-*⚡ Refreshes automatically when you view this page*`
+🕒 **Current Time :** ![Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=IST&query=%24.time&url=http%3A%2F%2Fworldclockapi.com%2Fapi%2Fjson%2Fasia%2Fkolkata&style=for-the-badge&cacheSeconds=1)`
 
   const readme = fs.readFileSync("README.md", "utf-8")
   const updated = readme.replace(
