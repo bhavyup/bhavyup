@@ -73,5 +73,5 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <br><br>
 ## 🌥 Date and Quote 
 <!--START_SECTION:quote-->
-📅 **Date :** Sunday 6 July, 2025<!--END_SECTION:quote-->
+📅 **Date :** Sunday 6 July, 2025<!--END_SECTION:quote--><br>
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red)
