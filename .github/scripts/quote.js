@@ -19,11 +19,13 @@ const fetch = require("node-fetch");
   const newContent = `
 ## 🌟 Quote of the Day
 
-📅 Date: ${dateStr}  
-🕒 Time: ![Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata)  
 💬 "${quote}"  
-      \t — ${author}
+— ${author}
+
+📅 **Date (Last Updated):** ${dateStr}  
+🕒 **Current Time:** ![Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata)
 `;
+
 
   const readme = fs.readFileSync("README.md", "utf-8");
   const updated = readme.replace(
