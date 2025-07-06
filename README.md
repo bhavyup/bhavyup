@@ -13,6 +13,7 @@
 Got an idea, project, or just want to connect? <br>
 I'm always open to collaboration, learning, and building cool stuff together.
 Let’s create something impactful — reach out and let’s talk!<br>
+
 📬 Email: <a href="mailto:bhavyupreti0@gmail.com">bhavyupreti0@gmail.com</a>
 <br><br>
 ## 🔗 Connect with Me
