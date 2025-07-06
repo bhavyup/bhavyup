@@ -14,13 +14,24 @@ const fetch = require("node-fetch")
     day: "numeric",
   })
 
+  // Get current IST time and format it
+  const now = new Date()
+  const istTime = now.toLocaleString("en-IN", {
+    timeZone: "Asia/Kolkata",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: true,
+  })
+
   const newContent = `## 🌟 Quote of the Day
 
 💬 "${quote}"  — ${author}
 
 📅 **Date :** ${dateStr}  
 
-🕒 **Current Time :** ![Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=IST&query=%24.time&url=http%3A%2F%2Fworldclockapi.com%2Fapi%2Fjson%2Fasia%2Fkolkata&style=for-the-badge&cacheSeconds=1)`
+🕒 **Current Time :** ![Time](https://img.shields.io/badge/IST-${encodeURIComponent(istTime)}-brightgreen?style=for-the-badge&logo=clock)
+
+⏰ **Live Clock :** <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Live%20UTC&query=%24.utc_datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FUTC&style=flat-square&cacheSeconds=1&t=${Date.now()}" />`
 
   const readme = fs.readFileSync("README.md", "utf-8")
   const updated = readme.replace(
