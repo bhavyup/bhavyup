@@ -23,8 +23,13 @@ const fetch = require("node-fetch");
 — ${author}
 
 📅 **Date (Last Updated):** ${dateStr}  
-🕒 **Current Time:** ![Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata)
+🕒 **Current Time:**  
+
+<p align="center">
+  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Current Time">
+</p>
 `;
+
 
 
   const readme = fs.readFileSync("README.md", "utf-8");
