@@ -20,7 +20,7 @@ const fetch = require("node-fetch");
 ## 🌟 Quote of the Day
 
 📅 Date: ${dateStr}  
-🕒 Time: ${timeStr} IST  
+🕒 Time: ![Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata)  
 💬 "${quote}"  
       \t — ${author}
 `;
