@@ -2,15 +2,19 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 
 (async () => {
-  const res = await fetch("https://api.quotable.io/random?tags=motivational|inspirational");
+  const res = await fetch("https://zenquotes.io/api/random");
   const data = await res.json();
 
-  const quote = data.content;
-  const author = data.author;
+  const quote = data[0].q;
+  const author = data[0].a;
 
   const date = new Date();
-  const dateStr = date.toLocaleDateString("en-IN", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-  const timeStr = date.toLocaleTimeString("en-IN", { hour: '2-digit', minute: '2-digit' });
+  const dateStr = date.toLocaleDateString("en-IN", {
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+  });
+  const timeStr = date.toLocaleTimeString("en-IN", {
+    hour: '2-digit', minute: '2-digit'
+  });
 
   const newContent = `
 ## 🌟 Quote of the Day
@@ -29,3 +33,4 @@ const fetch = require("node-fetch");
 
   fs.writeFileSync("README.md", updated);
 })();
+
