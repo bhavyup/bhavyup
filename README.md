@@ -73,4 +73,10 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <br><br>
 
 <!--START_SECTION:quote-->
+## 🌟 Quote of the Day
+
+📅 Date: Sunday 6 July, 2025  
+🕒 Time: 08:28 am IST  
+💬 "Never do things others can do and will do if there are things others cannot do or will not do."  
+— Amelia Earhart
 <!--END_SECTION:quote-->
