@@ -74,8 +74,8 @@ Let’s create something impactful — reach out and let’s talk!<br>
 
 <!--START_SECTION:quote-->## 🌟 Quote of the Day
 
-💬 "Sometimes a change of perspective is all it takes to see the light."  — Dan Brown
+💬 "Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."  — Sydney Smith
 
 📅 **Date :** Sunday 6 July, 2025  
 
-🕒 **Current Time :** ![Live Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Live%20Time%20(IST)&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&cacheSeconds=1&style=for-the-badge)<!--END_SECTION:quote-->
+🕒 **Current Time :** ![Time](https://img.shields.io/endpoint?url=https://worldtimeapi.org/api/timezone/Asia/Kolkata&query=$.datetime&label=IST&color=brightgreen&style=for-the-badge&cacheSeconds=1)<!--END_SECTION:quote-->
