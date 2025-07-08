@@ -69,7 +69,7 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ## 💡 Dev Jokes
 
 ![Dev Tip](https://readme-jokes.vercel.app/api?bgColor=black&textColor=white&theme=graySky)
-<br>
+
 ## 🌥 Date and Quote 
 <!--START_SECTION:quote-->
 📅 **Date :** Tuesday 8 July, 2025<!--END_SECTION:quote--><br>
