@@ -73,8 +73,10 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ## 🌥 Date and Quote 
 <!--START_SECTION:quote-->
 📅 **Date :** Tuesday 15 July, 2025<!--END_SECTION:quote--><br>
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red)
-<br>
+<p align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red">
+</p>
+
 ## 🙏 Thank You for Visiting!
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNpZDZrMjhvOGhjN2xnbzg4Y2pldDhoYTd3Z3ZjNGc3cnA5bzlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b0DUkn7aEOYHVF3E1O/giphy.gif" width="150" height="150" alt="Thank You GIF" />
