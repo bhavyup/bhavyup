@@ -69,6 +69,7 @@ Let’s create something impactful — reach out and let’s talk!<br>
 ## 💡 Dev Jokes
 
 ![Dev Tip](https://readme-jokes.vercel.app/api)
+<br>
 
 ## 🌥 Date and Quote 
 <!--START_SECTION:quote-->
