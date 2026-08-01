@@ -11,7 +11,7 @@
 
 <img src="./hd-stack.svg" width="620" alt="about"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>java &nbsp; c &nbsp; c++ &nbsp; python &nbsp; go &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; springboot &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; mongodb &nbsp; redis &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <!-- ===== GITHUB STATS ===== -->
 <img src="./hd-stats.svg" width="620" alt="about"/>
