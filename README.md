@@ -34,12 +34,8 @@
 
 <!-- Stats + Top languages — side by side -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=808080&icon_color=F0F6FC&text_color=94A3B8&bg_color=0D1117&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Bhavya's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=bhavyup&layout=compact&langs_count=8&hide_border=true&title_color=808080&text_color=94A3B8&bg_color=0D1117&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=bhavyup&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=808080&icon_color=F0F6FC&text_color=94A3B8&bg_color=0D1117&card_width=620" />
+  <img width="200%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=620" alt="Bhavya's GitHub stats" />
 </picture>
 
 </div>
