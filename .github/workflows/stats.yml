@@ -1,4 +1,4 @@
-name: refresh stats
+scripts: refresh stats
 
 # Deliberately no `push` trigger: this job commits stats.svg, and a push
 # trigger would make it re-run on its own commit.
@@ -25,7 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
-        run: python3 scripts/generate_stats.py
+        run: python3 .github/scripts/generate_stats.py
 
       - name: Commit whatever changed
         run: |
