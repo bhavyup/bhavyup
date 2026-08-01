@@ -18,15 +18,17 @@
 
 <div align="center">
 
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+<br/>
+
 <!-- Streak — full width -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=0D1117&stroke=809090&ring=94A3B8&fire=80A0A0&currStreakLabel=F0F6F4&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
   <img width="100%" src="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Bhavya's streak" />
 </picture>
 
-<br/>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
