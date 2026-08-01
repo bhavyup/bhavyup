@@ -1,4 +1,4 @@
-scripts: refresh stats
+name: refresh stats
 
 # Deliberately no `push` trigger: this job commits stats.svg, and a push
 # trigger would make it re-run on its own commit.
