@@ -1,102 +1,77 @@
-<img align="left" width="1000" alt="me" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+">
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<img align="right" width="200" alt="me" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyup/bhavyup/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyup/bhavyup/main/light.svg">
+  <img alt="Bhavya Upreti" src="https://raw.githubusercontent.com/bhavyup/bhavyup/main/light.svg">
+</picture>
 
-<br>
-💻 Full-Stack Developer | Java Enthusiast | Final Year CSE Student <br>
-⚙️ Exploring backend systems, cloud infra, and scalable architectures <br>
-🚀 Open to SDE roles, internships & cool collaborations!
-<br><br>
+<!-- ===== GITHUB STATS ===== -->
 
-## 🤝 Wanna work together ?  
-Got an idea, project, or just want to connect? <br>
-I'm always open to collaboration, learning, and building cool stuff together.
-Let’s create something impactful — reach out and let’s talk!<br>
+<div align="center">
 
-📬 Email: <a href="mailto:bhavyupreti0@gmail.com">bhavyupreti0@gmail.com</a>
-<br><br>
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhavy-upreti-772b6b331/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavy_upreti)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/NewNOOB01)
-<br><br>
-## ⚙ Skills & Tools
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Bhavya's streak" />
+</picture>
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![XML](https://img.shields.io/badge/XML-008000?style=for-the-badge&logo=xml&logoColor=white)
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Bhavya's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=bhavyup&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=bhavyup&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
-### 🖥️ Backend & Runtime
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+</div>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
-### 🔧 Tools & Platforms
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
 
-### ☁️ Hosting & Deployment
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<br><br>
-## 🧠 Currently Learning
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyup/bhavyup/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyup/bhavyup/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhavyup/bhavyup/output/snake-light.svg" />
+</picture>
 
-- 📦 Docker & Kubernetes for containerized DevOps pipelines
-- ☁️ AWS for scalable backend deployments
-- 🧩 Advanced Java & Spring Boot APIs
-- 🛠️ System design & architecture fundamentals
-<br><br>
-## 💡 Dev Jokes
+</div>
 
-![Dev Tip](https://readme-jokes.vercel.app/api)
-<br>
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/bhavyup/bhavyup/projects/projects.svg" alt="Projects" />
+</div>
 
-## 🌥 Date and Quote 
-<!--START_SECTION:quote-->
-📅 **Date :** Sunday 7 June, 2026<!--END_SECTION:quote--><br>
-<p align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red">
-</p>
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
 
-## 🙏 Thank You for Visiting!
+<a href="https://www.linkedin.com/in/bhavy-upreti/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/bhavy_upreti/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.t.me/bhavy_upreti">
+  <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" alt="Telegram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bhavyupreti0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+</div>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNpZDZrMjhvOGhjN2xnbzg4Y2pldDhoYTd3Z3ZjNGc3cnA5bzlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b0DUkn7aEOYHVF3E1O/giphy.gif" width="150" height="150" alt="Thank You GIF" />
-I appreciate you stopping by my GitHub profile.  
-Feel free to explore my repositories, check out my projects, or connect with me!
+<!-- ===== END SOCIAL BADGES ===== -->
 
-
-📬 **Let’s Connect**: If you liked something or want to collaborate, just reach out!
-
-> **"Code. Learn. Share. Repeat."**
-<img src="https://komarev.com/ghpvc/?username=bhavyup&abbreviated=true&label=WATCHED&color=000000&style=for-the-badge">
-
----
-
-<p align="center">
-  <sub>
-  © 2025 <strong>Bhavy Upreti ·</strong> Made with ❤️ using  
-  <img src="https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white&logoSize=small"/>
-  </sub>
-</p>
-
+<!-- =================================== -->

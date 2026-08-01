@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Helios-Grid",
+    "repo": "bhavyup/Helios-Grid",
+    "logo": "helios.png",
+    "description": "decentralized smart-grid energy simulation platform based on RLE with a real-time web dashboard",
+    "tags": ["Python", "ML", "NextJS"]
+  },
+  {
+    "name": "DBShield",
+    "repo": "bhavyup/DBShield",
+    "logo": "dbshield.png",
+    "description": "A Java based database backup utitlity",
+    "tags": ["Java", "React"]
+  },
+  {
+    "name": "PrivateGPT",
+    "repo": "bhavyup/custom-privateGPT",
+    "logo": "gpt.png",
+    "description": "RAG based private document processing engine",
+    "tags": ["Python", "Qdrant"]
+  },
+  {
+    "name": "Resume-AI",
+    "repo": "bhavyup/RESUME-AI",
+    "logo": "resumeai.png",
+    "description": "A free, open-source AI resume builder",
+    "tags": ["Typescript", "NextJS", "Supabase"]
+  },
+  {
+    "name": "CopyTool-GO",
+    "repo": "bhavyup/CopyTool-GO",
+    "logo": "copytoolgo.png",
+    "description": "A gitignore-aware context dumper",
+    "tags": ["GO", "POwershell"]
+  },
+  {
+    "name": "Smart-AI-Internship-Recommendation-Engine",
+    "repo": "bhavyup/Smart-AI-Internship-Recommendation-Engine",
+    "logo": "saire.png",
+    "description": "A decision-support platform that matches candidates to internship opportunities using multi-factor scoring",
+    "tags": ["Python", "Javascript", "HTML"]
+  }
+]
+
