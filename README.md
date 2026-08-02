@@ -26,8 +26,11 @@
 
 <!-- Streak — full width -->
 <picture>
+  <!-- Dark Mode (Your custom stealth settings) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=0D1117&stroke=809090&ring=94A3B8&fire=80A0A0&currStreakLabel=F0F6F4&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Bhavya's streak" />
+  
+  <!-- Light Mode (Subtle 'Watermark' Effect) -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=bhavyup&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=E2E8F0&fire=4DEEEA&currStreakLabel=94A3B8&sideLabels=808080&currStreakNum=64748B&sideNums=64748B&dates=F0D5E1&titleColor=4DEEEA&card_width=1180" alt="Bhavya's streak" />
 </picture>
 
 
@@ -39,12 +42,12 @@
 <!-- Stats + Top languages — side by side -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=808080&icon_color=F0F6FC&text_color=94A3B8&bg_color=0D1117&card_width=620" />
-  <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Bhavya's GitHub stats" />
+  <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=94A3B8&icon_color=200000&text_color=808080&bg_color=FFFFFF&card_width=500" alt="Bhavya's GitHub stats" />
 </picture>
 
-<picture>
+<picture align="top">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&hide_border=true&bg_color=0D1117&title_color=808080&text_color=94A3B8&custom_title=Languages%20ranked%20by%20time%20usage&langs_count=8&theme=dark" />
-  <img width="40%" src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&custom_title=Languages%20ranked%20by%20time%20usage&langs_count=8&theme=dark" alt="Bhavya's GitHub stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&hide_border=true&title_color=0891B2&title_color=94A3B8&icon_color=F00000&text_color=808080&bg_color=FFFFFF&custom_title=Languages%20ranked%20by%20time%20usage&langs_count=8&theme=dark" alt="Bhavya's GitHub stats" />
 </picture>
 
 </div>
@@ -81,21 +84,36 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavy-upreti/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/LinkedIn-EEEEEE?style=for-the-badge&logo=linkedin&logoColor=0000FFF&labelColor=FFFFFF" alt="LinkedIn" />
+  </picture>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.instagram.com/bhavy_upreti/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=EE0000&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/Instagram-EEEEEE?style=for-the-badge&logo=instagram&logoColor=EE0000&labelColor=FFFFFF" alt="Instagram" />
+  </picture>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.t.me/bhavy_upreti">
-  <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" alt="Telegram" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/Telegram-EEEEEE?style=for-the-badge&logo=telegram&logoColor=0891B2&labelColor=FFFFFF" alt="Telegram" />
+  </picture>
 </a>
 &nbsp;&nbsp;
+
 <a href="mailto:bhavyupreti0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/Email-EEEEEE?style=for-the-badge&logo=gmail&logoColor=059669&labelColor=FFFFFF" alt="Email" />
+  </picture>
 </a>
-&nbsp;&nbsp;
+
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
