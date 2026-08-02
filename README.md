@@ -1,7 +1,7 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<img src="./hd-about.svg" width="720" alt="about"/>
+<img src="./hd-about.svg" width="1280" alt="about"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyup/bhavyup/main/dark.svg">
