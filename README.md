@@ -74,7 +74,7 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
-<img src="./hd-contacts.svg" width="620" alt="contacts"/>
+<img src="./hd-social-badge.svg" width="620" alt="socialBadge"/>
 
 <div align="center">
 
