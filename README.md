@@ -9,12 +9,12 @@
   <img alt="Bhavya Upreti" src="https://raw.githubusercontent.com/bhavyup/bhavyup/main/light.svg">
 </picture>
 
-<img src="./hd-stack.svg" width="620" alt="about"/>
+<img src="./hd-stack.svg" width="1280" alt="about"/>
 
 <samp>java &nbsp; c &nbsp; c++ &nbsp; python &nbsp; go &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; springboot &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; mongodb &nbsp; redis &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <!-- ===== GITHUB STATS ===== -->
-<img src="./hd-stats.svg" width="620" alt="about"/>
+<img src="./hd-stats.svg" width="1280" alt="about"/>
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<img src="./hd-projects.svg" width="620" alt="about"/>
+<img src="./hd-projects.svg" width="1280" alt="about"/>
 
 <div align="center">
   <picture>
@@ -74,7 +74,7 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
-<img src="./hd-social-badge.svg" width="620" alt="socialBadge"/>
+<img src="./hd-social-badge.svg" width="1280" alt="socialBadge"/>
 
 <div align="center">
 
