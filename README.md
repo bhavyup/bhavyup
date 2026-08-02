@@ -74,7 +74,7 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
-<img src="./hd-about-this-page.svg" width="620" alt="about"/>
+<img src="./hd-contacts.svg" width="620" alt="contacts"/>
 
 <div align="center">
 
