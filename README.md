@@ -9,11 +9,13 @@
   <img alt="Bhavya Upreti" src="https://raw.githubusercontent.com/bhavyup/bhavyup/main/light.svg">
 </picture>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="10" />
 <img src="./hd-stack.svg" width="1280" alt="about"/>
 
 <samp>java &nbsp; c &nbsp; c++ &nbsp; python &nbsp; go &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; springboot &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; mongodb &nbsp; redis &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <!-- ===== GITHUB STATS ===== -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="10" />
 <img src="./hd-stats.svg" width="1280" alt="about"/>
 
 <div align="center">
