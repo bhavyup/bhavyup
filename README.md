@@ -40,7 +40,7 @@
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
 <!-- Stats + Top languages — side by side -->
-<div width="1180">
+<div width="1180" justify-content="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=808080&icon_color=F0F6FC&text_color=94A3B8&bg_color=0D1117&card_width=620" />
   <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=94A3B8&icon_color=200000&text_color=808080&bg_color=FFFFFF&card_width=500" alt="Bhavya's GitHub stats" />
