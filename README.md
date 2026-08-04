@@ -40,15 +40,15 @@
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
 <!-- Stats + Top languages — side by side -->
-<div width="1180" justify-content="center">
+<div align"center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=808080&icon_color=F0F6FC&text_color=94A3B8&bg_color=0D1117&card_width=620" />
-  <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=94A3B8&icon_color=200000&text_color=808080&bg_color=FFFFFF&card_width=500" alt="Bhavya's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=808080&icon_color=F0F6FC&text_color=94A3B8&bg_color=0D1117&card_width=495" />
+  <img width="495" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=bhavyup&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=94A3B8&icon_color=200000&text_color=808080&bg_color=FFFFFF" alt="Bhavya's GitHub stats" />
 </picture>
 
 <picture align="top">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&hide_border=true&bg_color=0D1117&title_color=808080&text_color=94A3B8&custom_title=Languages%20ranked%20by%20time%20usage&langs_count=8&theme=dark" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&hide_border=true&title_color=0891B2&title_color=94A3B8&icon_color=F00000&text_color=808080&bg_color=FFFFFF&custom_title=Languages%20ranked%20by%20time%20usage&langs_count=8&theme=dark" alt="Bhavya's GitHub stats" />
+  <img width="495" src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&hide_border=true&title_color=0891B2&title_color=94A3B8&icon_color=F00000&text_color=808080&bg_color=FFFFFF&custom_title=Languages%20ranked%20by%20time%20usage&langs_count=8&theme=dark" alt="Bhavya's GitHub stats" />
 </picture>
 </div>
 
